@@ -2,7 +2,7 @@
 
 This project animates the hamburger manu to slide in and out.
 
-You can checkout my last project which animates a temmplate website built with tailwind CSS, using the [animate on scroll library](https://michalsnik.github.io/aos/) built by michalsnik.
+You can checkout [my last project](https://yuskhosmith.github.io/animated-template) which animates a template website built with tailwind CSS, using the [animate on scroll library](https://michalsnik.github.io/aos/) built by michalsnik.
 
 ## .New
 I learnt the how to use CSS animation
